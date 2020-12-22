@@ -1,0 +1,32 @@
+table{
+    padding-top: 20px;
+    margin-left: 1px;
+}
+div{
+    border:solid 1px;
+    margin: 2px;
+    margin-left: 30px;
+    margin-right: 40em;
+    padding: 5px;
+    text-align: center;
+    
+}
+td{
+    border: solid 1px;
+    background-color: powderblue;
+}
+
+th{
+    border: solid 1px;
+    background-color: orange
+}
+
+.scroll{
+    overflow: auto;
+    width: 30em;
+    height: 11em;
+    border-style: none;
+}
+a{
+    font-size: 15px;
+}

@@ -1,0 +1,14 @@
+div{
+    border:solid 1px;
+    margin: 2px;
+    margin-right: 40em;
+    padding: 2px;
+    text-align: center;
+}
+table{
+    margin-left: 2em;
+    overflow: auto;
+}
+a{
+    font-size: 15px;
+}

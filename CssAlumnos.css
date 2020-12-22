@@ -1,0 +1,24 @@
+table{
+    padding-top: 20px;
+    margin-left: 1px;
+    overflow: auto;
+}
+div{
+    border:solid 1px;
+    margin: 2px;
+    margin-right: 40em;
+    padding: 2px;
+    text-align: center;
+}
+td{
+    border: solid 1px;
+    background-color: powderblue;
+}
+
+th{
+    border: solid 1px;
+    background-color: orange
+}
+a{
+    font-size: 15px;
+}
